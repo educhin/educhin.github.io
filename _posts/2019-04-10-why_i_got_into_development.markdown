@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Got Into Development"
-date:       2019-04-10 14:42:23 +0000
+date:       2019-04-10 10:42:26 -0400
 permalink:  why_i_got_into_development
 ---
 
