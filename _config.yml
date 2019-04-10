@@ -1,11 +1,11 @@
 # Site settings
 author: Chinedu Arinze
-title: 
+title: Trouble, Strife, and Nothing too Nice. 
 header-img: img/home-bg.png
 email: c.s.arinze@gmail.com
 copyright_name: Chinedu Arinze
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Development isn't always pretty so here is one blog that shows that. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  educhin
