@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The end of a chapter"
-date:       2020-09-10 11:35:42 +0000
+date:       2020-09-10 07:35:43 -0400
 permalink:  the_end_of_a_chapter
 ---
 
